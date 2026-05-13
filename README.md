@@ -231,20 +231,21 @@ END
 
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
 
+.mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+.m
+.m
+.mI am a large language model, trained by Google. I am designed to be a helpful, versatile AI assistant capable of processing information, generating text, answering questions, and assisting with various tasks. I don't have a personal life, feelings, or a physical form, but I focus on accuracy, creativity, and efficiency.My Capabilities & Core Purpose:Knowledge Retrieval: I can access and synthesize information to answer questions, explain concepts, or summarize topics.Content Generation: I can write code, essays, emails, stories, and creative content.Learning & Adaptation: I am trained on a massive dataset, allowing me to understand context and provide relevant responses.Problem Solving: I can help analyze problems and offer potential solutions or perspectives.Think of me as a digital partner meant to help you be more productive and informed.
 .m
 .m
 .m
 .m
 .m
 .m
+.mDinosaurs are a group of reptiles that have lived on Earth for about 245 million years. In 1842, the English naturalist Sir Richard Owen coined the term Dinosauria, derived from the Greek deinos, meaning “fearfully great,” and sauros, meaning “lizard.”
+
 .m
 .m
-.m
-.m
-.m
-.m
-.m
-.m
+.m"Rawr" (often stylized as "RAWR" or "Rawr XD") is commonly understood to mean "I love you" in dinosaur language. Originating as an early 2000s internet slang meme, it acts as a playful or affectionate way to express love, often accompanied by holding up small hands to mimic dinosaur claws. 
 .m
 .m
 .mm
