@@ -62,11 +62,17 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="201" height="134" alt="image" src="https://github.com/user-attachments/assets/b590c6f2-f5d8-495d-87e1-1c82ef4aae3d" />
 
----
+
+
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
+<img width="682" height="464" alt="image" src="https://github.com/user-attachments/assets/40f9218c-0d82-43c2-853f-e026c4d013fa" />
+
+
+
 
 ## 2. SUBTRACTION
 
@@ -113,12 +119,17 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="269" height="131" alt="image" src="https://github.com/user-attachments/assets/b684a7c0-2585-4e94-b0ee-3cdfb8e3c5cf" />
 
----
+
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="680" height="462" alt="image" src="https://github.com/user-attachments/assets/e09b1b78-2a10-4449-8f4f-a306d4095086" />
+
+
+
 
 ## 3. MULTIPLICATION
 
@@ -162,11 +173,15 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="599" height="305" alt="image" src="https://github.com/user-attachments/assets/f1d2a6ce-07e8-441a-acf9-600d2b927cce" />
 
----
+
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="688" height="467" alt="image" src="https://github.com/user-attachments/assets/8b7bfa75-638a-472b-88c2-b53806a35980" />
+
+
 
 ## 4. DIVISION
 
@@ -207,10 +222,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="313" height="176" alt="image" src="https://github.com/user-attachments/assets/abc5f41f-2ee7-462f-a012-f4825324acc8" />
 
----
+
+
 ## OUTPUT FROM MASM SOFTWARE
+
+<img width="684" height="469" alt="image" src="https://github.com/user-attachments/assets/25d50f0d-d07d-43cd-982b-5db2b204a484" />
+
 
 
 
